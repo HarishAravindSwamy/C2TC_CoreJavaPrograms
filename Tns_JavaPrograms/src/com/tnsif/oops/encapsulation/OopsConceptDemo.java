@@ -33,7 +33,7 @@ package com.tnsif.oops.encapsulation;
 			
 			@Override
 			public String toString() {
-				return "Serial Number:" + serialNum + "\nName=" + name + "\nAge=" + age;
+			return "Serial Number:" + serialNum + "\nName=" + name + "\nAge=" + age;
 	}
 
 }
